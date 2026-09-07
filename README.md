@@ -2,7 +2,7 @@
 
 ## Automotive Systems Fundamentals
 
-A complete instructional program designed to demonstrate end-to-end learning and program development capability.
+A portfolio project demonstrating end-to-end instructional and learning program design, from defining measurable objectives to developing learning activities, educational content, assessments, and evaluation.
 
 This portfolio demonstrates the process of transforming a subject area into a structured learning experience, from defining measurable learning objectives through content development, learning activities, practical application, assessment, and evaluation.
 
